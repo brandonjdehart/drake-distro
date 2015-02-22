@@ -32,7 +32,7 @@
 	branch = master
 [submodule "snopt"]
 	path = snopt
-	url = https://github.com/RobotLocomotion/snopt.git
+	url = https://github.com/brandonjdehart/snopt.git
 	branch = master
 [submodule "bertini"]
 	path = bertini
@@ -40,7 +40,7 @@
 	branch = master
 [submodule "gloptipoly3"]
 	path = gloptipoly3
-	url = https://github.com/RobotLocomotion/gloptipoly3.git
+	url = https://github.com/brandonjdehart/gloptipoly3.git
 	branch = master
 [submodule "gurobi"]
 	path = gurobi
@@ -52,7 +52,7 @@
 	branch = master
 [submodule "sedumi"]
 	path = sedumi
-	url = https://github.com/RobotLocomotion/sedumi.git
+	url = https://github.com/brandonjdehart/sedumi.git
 	branch = master
 [submodule "octomap"]
 	path = octomap
