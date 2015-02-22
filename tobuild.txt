@@ -7,13 +7,13 @@ libbot
 eigen
 bullet
 octomap
-snopt
+#snopt
 gurobi
 mosek
 yalmip
-gloptipoly3
-bertini
-sedumi
+#gloptipoly3
+#bertini
+#sedumi
 avl
 xfoil
 iris
