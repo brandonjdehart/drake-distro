@@ -4,8 +4,8 @@
 	branch = master
 [submodule "drake"]
 	path = drake
-	url = https://github.com/RobotLocomotion/drake.git
-	branch = master
+	url = https://github.com/brandonjdehart/drake.git
+	branch = mymaster
 [submodule "lcm"]
 	path = lcm
 	url = https://github.com/RobotLocomotion/lcm-pod.git
